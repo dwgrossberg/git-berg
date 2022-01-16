@@ -1,0 +1,2 @@
+# git-berg
+Self repository
